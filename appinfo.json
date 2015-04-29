@@ -1,0 +1,23 @@
+{
+    "appKeys": {
+        "STATUS": 0
+    },
+    "capabilities": [
+        "location",
+        "configurable"
+    ],
+    "companyName": "ashish81394@gmail.com",
+    "longName": "Peace Of Mind",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "2",
+    "shortName": "Peace Of Mind",
+    "uuid": "7284976d-868f-430d-ae45-12e47d2fd3b4",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
